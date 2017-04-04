@@ -1,0 +1,3 @@
+<-- Pense-bête - V03 ---------------------------------->
+Suivre les cours sur Openclassroom
+Suivre le versioning sur GITHub
